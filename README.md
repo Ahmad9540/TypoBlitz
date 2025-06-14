@@ -10,8 +10,7 @@ An elegant typing test tool.
 
 
 ## Linkedin:
-
-
+https://www.linkedin.com/in/ashfaq-ahmad-366345250/
 
 ## Currernt Features:
 
