@@ -30,7 +30,7 @@ const GITHUB_TOOLTIP_TITLE =
   "Dear visitors: \n For feature requests or bug reports, please submit an issue to the github repo. \n Welcome contributing with a fork. \n If you like my works, please star the project. \n Thanks! \n";
 const SUPPORT_TOOLTIP_TITLE =
   "Help me keep the site live with your support : D \n Appreciate with love! \n";
-const AUTHOR = "author: @Arnav Singha\n";
+const AUTHOR = "author: @Ashfaq Ahmad\n";
 const GITHUB_REPO_LINK = "project: @Github\n";
 
 const FOCUS_MODE = "Focus mode";
