@@ -190,13 +190,13 @@ const FooterMenu = ({
                   {GITHUB_TOOLTIP_TITLE}
                     <Link
                       margin="inherit"
-                      href="https://arnavsingha.netlify.app/#/home"
+                      href="https://github.com/Ahmad9540/TypoBlitz"
                     >
                       {AUTHOR}
                     </Link>
                     <Link
                       margin="inherit"
-                      href="https://github.com/ArnavSingha/TypoBlitz"
+                      href="https://github.com/Ahmad9540/TypoBlitz"
                     >
                       {GITHUB_REPO_LINK}
                     </Link>
@@ -205,7 +205,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://github.com/ArnavSingha/TypoBlitz"
+                href="https://github.com/Ahmad9540/TypoBlitz"
                 color="inherit"
               >
                 <GitHubIcon></GitHubIcon>
@@ -218,13 +218,13 @@ const FooterMenu = ({
                   {GITHUB_TOOLTIP_TITLE}
                     <Link
                       margin="inherit"
-                      href="https://arnavsingha.netlify.app/#/home"
+                      href="https://github.com/Ahmad9540/TypoBlitz"
                     >
                       {AUTHOR}
                     </Link>
                     <Link
                       margin="inherit"
-                      href="https://www.linkedin.com/in/arnav-singha/"
+                      href="https://www.linkedin.com/in/ashfaq-ahmad-366345250/"
                     >
                       {GITHUB_REPO_LINK}
                     </Link>
@@ -233,7 +233,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://www.linkedin.com/in/arnav-singha//"
+                href="https://www.linkedin.com/in/ashfaq-ahmad-366345250//"
                 color="inherit"
               >
                 <LinkedInIcon></LinkedInIcon>
@@ -267,7 +267,7 @@ const FooterMenu = ({
         {isBottomLogoEnabled && (
           <Box display="block" flexDirection="row" className="bottom-info">
             <IconButton
-              href="https://github.com/ArnavSingha/TypoBlitz"
+              href="https://github.com/Ahmad9540/TypoBlitz"
               color="inherit"
             >
               <span>
